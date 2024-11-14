@@ -1,0 +1,90 @@
+.border{
+    background-color: cadetblue;
+    color: black;
+    border-radius: 8px;
+    border:8px red;
+}
+.first{
+    color: blueviolet;
+}
+.Bizning{
+    color: green;
+}
+.one{
+    color: black;
+}
+.three{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.fo{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.box{
+    background-color: black;
+    text-align: center;
+    width: 100px auto;
+}
+.nol{
+    color: green;
+    font-size:60px;
+}
+.login{
+    font-size: 70px;
+}
+.li{
+    font-size: 60px;
+}
+.gi{
+    height: 60px;
+}
+.bg-yelow{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+div{
+    text-align: center;
+    background-color: black;
+}
+.border{
+    border: 2px solid red;
+    border-radius: 16px;
+    text-align: center;
+    background-color: cadetblue;
+}
+.bg-blue{
+    background-color: cadetblue;
+    color: white;
+}
+.yoq{
+    font-size: 100%;
+}
+table{
+    text-align: center;
+    width: 100%;
+}
+.green{
+    background-color: green;
+    color: white;
+}
+.blue{
+    background-color: blue;
+    color: white;
+}
+.red{
+    background-color: red;
+    color: white;
+}
+.bg-black{
+    background-color: black;
+    color: white;
+}
+table,td,th{
+    border-collapse: collapse;
+    border: 1px solid white;
+    font-size: 20px;
+}
